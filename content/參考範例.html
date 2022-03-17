@@ -2,6 +2,7 @@
         <head>
         <title>cmsimde_site</title>
         <meta charset="utf-8">
+<meta property="head" content="H3">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700,900" rel="stylesheet">
         <link rel="stylesheet" href="./../cmsimde/static/chimper/fonts/icomoon/style.css">
@@ -92,6 +93,7 @@ img.add_border {
 </head>
 <body>
 <div class='container-fluid'><nav>
+        
     <div class="site-wrap">
 
     <div class="site-mobile-menu">
@@ -137,4 +139,64 @@ img.add_border {
           </div>
           
         </header>
-    </nav><section><h1>Site Map</h1><div id="tipue_search_content"></div><ul><li><a href='About.html'>About</a><li><a href='分組.html'>分組</a><li><a href='資料管理.html'>資料管理</a><ul><li><a href='run_2021.html'>run_2021</a><ul><li><a href='run_fail.html'>run_fail</a><li><a href='參考範例.html'>參考範例</a></li></ul><li><a href='Wink.html'>Wink</a><li><a href='run_2022.html'>run_2022</a></li></ul></section></div></body></html>
+    <div id="tipue_search_content">run_fail << <a href='run_fail.html'>Previous</a> <a href='Wink.html'>Next</a> >> Wink<br /><h1>參考範例</h1>
+<p><span>．cad2021 2b 各學員的 cad2021_hw 網站連結</span><span># </span>將資料存入<span> gist, </span>取其<span> url</span></p>
+<blockquote>
+<pre><br/><span>url = "https://gist.githubusercontent.com/mdecourse/b11a88a98655d41055c47f08fe94788f/raw/8a27e6885ee1a5074bcf864d741679afeac796c4/2b_w2_stud_list.txt"</span><br/><span># </span>利用<span> open() </span>開啟<span> url </span>後<span>, </span>以 <span>readlines() </span>讀取後可納入數列<br/><span>data = open(url).readlines()</span><br/><span># </span>檢查資料筆數<span>, </span>第一筆為<span> title</span><br/><span>#print(data)</span><br/><span>#print(len(data))</span><br/><span>data = data[1:]</span><br/><span>#print(data)</span><br/><span>for i in range(len(data)):</span><br/><span>    num_github = data[i]</span><br/><span>    num = num_github.split("\t")[0]</span><br/><span>    account = num_github.split("\t")[1]</span><br/><span>    if account == "":</span><br/><span>        account = num</span><br/><span>    print("&lt;p&gt;&lt;a href='https://" + str(account) + ".github.io/cad2021_hw'&gt;"+ str(num) + "&lt;/a&gt;""&lt;a href='https://github.com/" + str(account) + "/cad2021_hw'&gt;"+ str(num) + "&lt;/a&gt;&lt;p&gt;")</span></pre>
+</blockquote>
+<p></p>
+<p>．隨機從 2b 學員名單中取出 10 個網站</p>
+<blockquote>
+<pre>from browser import html<br/>from browser import document<br/>import random<br/><br/>brython_div = document["brython_div"]<br/><br/># 將資料存入 gist, 取其 url<br/>url = "https://gist.githubusercontent.com/mdecourse/b11a88a98655d41055c47f08fe94788f/raw/8a27e6885ee1a5074bcf864d741679afeac796c4/2b_w2_stud_list.txt"<br/># 利用 open() 開啟 url 後, 以 readlines() 讀取後可納入數列<br/>data = open(url).readlines()<br/># 檢查資料筆數, 第一筆為 title<br/>#print(data)<br/>#print(len(data))<br/>data = data[1:]<br/>#print(data)<br/><br/># 根據 href 與 content 將 html 元件中的 anchor 插入頁面<br/>def makeLink(href, content):<br/> brython_div &lt;= html.A(content, href=href)<br/> brython_div &lt;= html.BR()<br/><br/><br/># 從學員資料中隨機取出 10 位學員的網頁進行查核<br/>select = 10<br/>random.shuffle(data)<br/>data = data[:10]<br/><br/>for i in range(len(data)):<br/> num_github = data[i] <br/> num = num_github.split("\t")[0]<br/> account = num_github.split("\t")[1]<br/> if account == "":<br/> account = num<br/> content = str(num)<br/> href = "https://"+ str(account) + ".github.io/cad2021_hw"<br/> makeLink(href, content)</pre>
+</blockquote>
+<br />run_fail << <a href='run_fail.html'>Previous</a> <a href='Wink.html'>Next</a> >> Wink</div>
+        
+    <!-- footer -->
+      <div class="container">
+        <div class="row pt-3 mx-auto">
+            <p>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            </p>
+        </div>
+      </div>
+    <!-- for footer -->
+    
+        </div> <!-- for site wrap -->
+            <!-- <script src="../cmsimde/static/chimper/js/jquery-3.3.1.min.js"></script> -->
+            <script src="../cmsimde/static/chimper/js/jquery-migrate-3.0.1.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery-ui.js"></script>
+            <script src="../cmsimde/static/chimper/js/popper.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/bootstrap.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/owl.carousel.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery.stellar.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery.countdown.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery.magnific-popup.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/bootstrap-datepicker.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/aos.js"></script>
+            <!--
+            <script src="../cmsimde/static/chimper/js/typed.js"></script>
+                    <script>
+                    var typed = new Typed('.typed-words', {
+                    strings: ["Web Apps"," WordPress"," Mobile Apps"],
+                    typeSpeed: 80,
+                    backSpeed: 80,
+                    backDelay: 4000,
+                    startDelay: 1000,
+                    loop: true,
+                    showCursor: true
+                    });
+                    </script>
+            -->
+            <script src="../cmsimde/static/chimper/js/main.js"></script>
+        
+<!-- 啟用 LaTeX equations 編輯 -->
+  <!-- <script>
+  MathJax = {
+    tex: {inlineMath: [['$', '$'], ['\(', '\)']]}
+  };
+  </script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>-->
+    </body></html>
+        
