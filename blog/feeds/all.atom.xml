@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>cd2022</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-03-31T17:05:46+08:00</updated><entry><title>2022 Spring CD 課程</title><link href="./w6_40923246.html" rel="alternate"></link><published>2022-03-31T11:00:00+08:00</published><updated>2022-03-31T17:05:46+08:00</updated><author><name>40923246</name></author><id>tag:None,2022-03-31:./w6_40923246.html</id><summary type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>cd2022</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-04-21T15:04:36+08:00</updated><entry><title>W7</title><link href="./w7_40923246.html" rel="alternate"></link><published>2022-04-07T00:00:00+08:00</published><updated>2022-04-21T07:59:46+08:00</updated><author><name>40923246</name></author><id>tag:None,2022-04-07:./w7_40923246.html</id><content type="html">&lt;p&gt;2022 Spring 協同產品設計實習&lt;/p&gt;
+</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>w7</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-07T00:00:00+08:00</published><updated>2022-04-21T14:18:40+08:00</updated><author><name>40923246</name></author><id>tag:None,2022-04-07:./w7_summary.html</id><summary type="html">&lt;p&gt;2022 協同產品設計實習
+工作分配進度&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2022 協同產品設計實習
+工作分配進度&lt;/p&gt;
+
+
+&lt;h2&gt;Python&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps&lt;/p&gt;</content><category term="Misc"></category><category term="2022Spring CD"></category></entry><entry><title>w7</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-07T00:00:00+08:00</published><updated>2022-04-21T14:20:38+08:00</updated><author><name>40923246</name></author><id>tag:None,2022-04-07:./w7_summary.html</id><summary type="html">&lt;p&gt;2022 協同產品設計實習
+工作分配進度&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2022 協同產品設計實習
+工作分配進度&lt;/p&gt;
+
+
+&lt;h2&gt;Python&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps&lt;/p&gt;</content><category term="Misc"></category><category term="2022Spring CD"></category></entry><entry><title>w7</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-07T00:00:00+08:00</published><updated>2022-04-21T14:20:38+08:00</updated><author><name>40923246</name></author><id>tag:None,2022-04-07:./w7_summary.html</id><summary type="html">&lt;p&gt;2022 協同產品設計實習
+工作分配進度&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2022 協同產品設計實習
+工作分配進度&lt;/p&gt;
+
+
+&lt;h2&gt;Python&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps&lt;/p&gt;</content><category term="Misc"></category><category term="2022Spring CD"></category></entry><entry><title>w7</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-07T00:00:00+08:00</published><updated>2022-04-21T14:18:40+08:00</updated><author><name>40923246</name></author><id>tag:None,2022-04-07:./w7_summary.html</id><summary type="html">&lt;p&gt;2022 協同產品設計實習
+工作分配進度&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2022 協同產品設計實習
+工作分配進度&lt;/p&gt;
+
+
+&lt;h2&gt;Python&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps&lt;/p&gt;</content><category term="Misc"></category><category term="2022Spring CD"></category></entry><entry><title>2022 Spring CD 課程</title><link href="./w6_40923246.html" rel="alternate"></link><published>2022-03-31T11:00:00+08:00</published><updated>2022-03-31T17:05:46+08:00</updated><author><name>40923246</name></author><id>tag:None,2022-03-31:./w6_40923246.html</id><summary type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
 
 
@@ -9,4 +42,124 @@
 &lt;p&gt;Python 可以用來控制 CoppeliaSim 與 Webots 虛擬環境中的機電系統&lt;/p&gt;
 &lt;p&gt;Python 可以用於機器學習 Keras, Pytorch&lt;/p&gt;
 &lt;h2&gt;Flutter&lt;/h2&gt;
-&lt;p&gt;Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry></feed>
+&lt;p&gt;Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>2022 Spring CD 課程</title><link href="./w6_40923246.html" rel="alternate"></link><published>2022-03-31T11:00:00+08:00</published><updated>2022-03-31T17:05:46+08:00</updated><author><name>40923246</name></author><id>tag:None,2022-03-31:./w6_40923246.html</id><summary type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
+
+
+&lt;h2&gt;Python&lt;/h2&gt;
+&lt;p&gt;Python 可以用來開發單機版的視窗程式套件 Pyslvs-UI&lt;/p&gt;
+&lt;p&gt;Python 可以用來開發網際版的內容管理系統 CMSiMDE&lt;/p&gt;
+&lt;p&gt;Python 可以用來控制 CoppeliaSim 與 Webots 虛擬環境中的機電系統&lt;/p&gt;
+&lt;p&gt;Python 可以用於機器學習 Keras, Pytorch&lt;/p&gt;
+&lt;h2&gt;Flutter&lt;/h2&gt;
+&lt;p&gt;Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>2022 Spring CD 課程</title><link href="./w6_40923246.html" rel="alternate"></link><published>2022-03-31T00:00:00+08:00</published><updated>2022-04-21T15:04:36+08:00</updated><author><name>40923246</name></author><id>tag:None,2022-03-31:./w6_40923246.html</id><summary type="html">&lt;p&gt;2022 Spring 協同產品設計實習&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2022 Spring 協同產品設計實習&lt;/p&gt;
+
+
+&lt;h2&gt;40923246&lt;/h2&gt;
+&lt;p&gt;W1
+網路問題都是用手機網路解決，所以暫時沒有IPV4、IPV6的問題&lt;/p&gt;
+&lt;p&gt;W2&lt;/p&gt;
+&lt;p&gt;&lt;a href=https://40923246.github.io/cd2022/content/%E5%88%86%E7%B5%84.html&gt;分組&lt;/a&gt;&lt;p&gt;
+
+W3
+&lt;a href=https://40923246.github.io/cd2022/content/%E7%B5%84%E5%85%A7%E5%88%86%E7%B5%84%E7%B4%80%E9%8C%84.html&gt;組內分組紀錄&lt;/a&gt;
+40923250 1-5
+40923241 6-10
+40923219 11-15
+40923225 16-20
+40923246 21-25
+40923232 26-30
+40923236 31-35
+40723217 36-38
+
+W4
+嗯&lt;a href=https://github.com/40923246/cd2022bg6&gt;fork&lt;/a&gt;
+
+W5
+更新大組內容方法
+施工中...
+
+W6
+&lt;a href=https://40923246.github.io/cd2022/blog/index.html&gt;blog&lt;/a&gt;
+
+W7
+
+W8
+
+參考範例
+
+註：黑底白字程式碼
+&lt;span style="color: #ffffff;"&gt;&lt;span style="background-color: #000000;"&gt;想寫的文字&lt;/span&gt;&lt;/span&gt;
+
+&lt;a href=https://mde.tw/&gt;想寫的文字&lt;/a&gt;
+
+Python
+----
+Python 可以用來開發單機版的視窗程式套件 Pyslvs-UI
+
+Python 可以用來開發網際版的內容管理系統 CMSiMDE
+
+Python 可以用來控制 CoppeliaSim 與 Webots 虛擬環境中的機電系統
+
+Python 可以用於機器學習 Keras, Pytorch
+
+Flutter
+----
+
+Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>2022 Spring CD 課程</title><link href="./w6_40923246.html" rel="alternate"></link><published>2022-03-31T00:00:00+08:00</published><updated>2022-04-21T15:04:36+08:00</updated><author><name>40923246</name></author><id>tag:None,2022-03-31:./w6_40923246.html</id><summary type="html">&lt;p&gt;2022 Spring 協同產品設計實習&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2022 Spring 協同產品設計實習&lt;/p&gt;
+
+
+&lt;h2&gt;40923246&lt;/h2&gt;
+&lt;p&gt;W1
+網路問題都是用手機網路解決，所以暫時沒有IPV4、IPV6的問題&lt;/p&gt;
+&lt;p&gt;W2&lt;/p&gt;
+&lt;p&gt;&lt;a href=https://40923246.github.io/cd2022/content/%E5%88%86%E7%B5%84.html&gt;分組&lt;/a&gt;&lt;p&gt;
+
+W3
+&lt;a href=https://40923246.github.io/cd2022/content/%E7%B5%84%E5%85%A7%E5%88%86%E7%B5%84%E7%B4%80%E9%8C%84.html&gt;組內分組紀錄&lt;/a&gt;
+40923250 1-5
+40923241 6-10
+40923219 11-15
+40923225 16-20
+40923246 21-25
+40923232 26-30
+40923236 31-35
+40723217 36-38
+
+W4
+嗯&lt;a href=https://github.com/40923246/cd2022bg6&gt;fork&lt;/a&gt;
+
+W5
+更新大組內容方法
+施工中...
+
+W6
+&lt;a href=https://40923246.github.io/cd2022/blog/index.html&gt;blog&lt;/a&gt;
+
+W7
+
+W8
+
+參考範例
+
+註：黑底白字程式碼
+&lt;span style="color: #ffffff;"&gt;&lt;span style="background-color: #000000;"&gt;想寫的文字&lt;/span&gt;&lt;/span&gt;
+
+&lt;a href=https://mde.tw/&gt;想寫的文字&lt;/a&gt;
+
+Python
+----
+Python 可以用來開發單機版的視窗程式套件 Pyslvs-UI
+
+Python 可以用來開發網際版的內容管理系統 CMSiMDE
+
+Python 可以用來控制 CoppeliaSim 與 Webots 虛擬環境中的機電系統
+
+Python 可以用於機器學習 Keras, Pytorch
+
+Flutter
+----
+
+Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps</content><category term="Misc"></category><category term="2022SpringCD"></category></entry></feed>
