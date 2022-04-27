@@ -8,7 +8,7 @@ Title: About
 
 課程投影片: <a href="https://40923246.github.io/cd2022/reveal">reveal</a>
 
-課程網誌: <a href="https://chiamingyen.github.io/cmsimfly/blog">blog</a>
+課程網誌: <a href="https://40923246.github.io/cd2022/blog">blog</a>
 
 
 
