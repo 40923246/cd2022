@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>cd2022 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-04-27T22:13:30+08:00</updated><entry><title>w7</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-07T00:00:00+08:00</published><updated>2022-04-21T14:20:38+08:00</updated><author><name>40923246</name></author><id>tag:None,2022-04-07:./w7_summary.html</id><summary type="html">&lt;p&gt;2022 協同產品設計實習
+<feed xmlns="http://www.w3.org/2005/Atom"><title>cd2022 - Misc</title><link href="https://40923246.github.io/cd2022/blog/" rel="alternate"></link><link href="https://40923246.github.io/cd2022/blog/feeds/misc.atom.xml" rel="self"></link><id>https://40923246.github.io/cd2022/blog/</id><updated>2022-04-27T22:55:28+08:00</updated><entry><title>test</title><link href="https://40923246.github.io/cd2022/blog/w8_nothing.html" rel="alternate"></link><published>2022-04-27T00:00:00+08:00</published><updated>2022-04-27T22:55:28+08:00</updated><author><name>40923246</name></author><id>tag:40923246.github.io,2022-04-27:/cd2022/blog/w8_nothing.html</id><summary type="html">&lt;p&gt;just test&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;just test&lt;/p&gt;
+
+
+&lt;h2&gt;40923246&lt;/h2&gt;
+&lt;p&gt;W1&lt;/p&gt;
+&lt;div&gt;網路問題都是用手機網路解決，所以暫時沒有IPV4、IPV6的問題&lt;/div&gt;
+&lt;p&gt;W2&lt;/p&gt;
+&lt;div&gt;&lt;a href=https://40923246.github.io/cd2022/content/%E5%88%86%E7%B5%84.html&gt;分組&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;W3&lt;/p&gt;
+&lt;div&gt;&lt;a href=https://40923246.github.io/cd2022/content/%E7%B5%84%E5%85%A7%E5%88%86%E7%B5%84%E7%B4%80%E9%8C%84.html&gt;組內分組紀錄&lt;/a&gt;&lt;/div&gt;
+&lt;pre&gt;40923250 1-5&lt;br&gt;40923241 6-10&lt;br&gt;40923219 11-15&lt;br&gt;40923225 16-20&lt;br&gt;40923246 21-25&lt;br&gt;40923232 26-30&lt;br&gt;40923236 31-35&lt;br&gt;40723217 36-38&lt;/pre&gt;
+&lt;p&gt;W4&lt;/p&gt;
+&lt;div&gt;嗯&lt;a href=https://github.com/40923246/cd2022bg6&gt;fork&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;W5&lt;/p&gt;
+&lt;div&gt;更新大組內容方法&lt;br&gt;施工中...&lt;/div&gt;
+&lt;p&gt;W6&lt;/p&gt;
+&lt;div&gt;&lt;a href=https://40923246.github.io/cd2022/blog/index.html&gt;blog&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;W7&lt;/p&gt;
+&lt;p&gt;W8&lt;/p&gt;
+&lt;p&gt;W9&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;參考範例&lt;/p&gt;
+&lt;p&gt;黑底白字 &lt;span style="color: #ffffff;"&gt;&lt;span style="background-color: #000000;"&gt;想寫的文字&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;插入連結&lt;a href=https://mde.tw/&gt;想寫的文字&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;測試測試&lt;/p&gt;</content><category term="Misc"></category><category term="2022Spring CD"></category></entry><entry><title>w7</title><link href="https://40923246.github.io/cd2022/blog/w7_summary.html" rel="alternate"></link><published>2022-04-07T00:00:00+08:00</published><updated>2022-04-21T14:20:38+08:00</updated><author><name>40923246</name></author><id>tag:40923246.github.io,2022-04-07:/cd2022/blog/w7_summary.html</id><summary type="html">&lt;p&gt;2022 協同產品設計實習
 工作分配進度&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2022 協同產品設計實習
 工作分配進度&lt;/p&gt;
@@ -7,13 +33,13 @@
 
 &lt;h2&gt;Python&lt;/h2&gt;
 &lt;hr&gt;
-&lt;p&gt;Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps&lt;/p&gt;</content><category term="Misc"></category><category term="2022Spring CD"></category></entry><entry><title>2022 Spring CD 課程</title><link href="./w6_40923246.html" rel="alternate"></link><published>2022-03-31T00:00:00+08:00</published><updated>2022-04-27T22:13:30+08:00</updated><author><name>40923246</name></author><id>tag:None,2022-03-31:./w6_40923246.html</id><summary type="html">&lt;p&gt;2022 Spring 協同產品設計實習&lt;/p&gt;
+&lt;p&gt;Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps&lt;/p&gt;</content><category term="Misc"></category><category term="2022Spring CD"></category></entry><entry><title>2022 Spring CD 課程</title><link href="https://40923246.github.io/cd2022/blog/w6_40923246.html" rel="alternate"></link><published>2022-03-31T00:00:00+08:00</published><updated>2022-04-27T22:41:56+08:00</updated><author><name>40923246</name></author><id>tag:40923246.github.io,2022-03-31:/cd2022/blog/w6_40923246.html</id><summary type="html">&lt;p&gt;2022 Spring 協同產品設計實習&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2022 Spring 協同產品設計實習&lt;/p&gt;
 
 
 &lt;h2&gt;40923246&lt;/h2&gt;
 &lt;p&gt;W1　網路問題都是用手機網路解決，所以暫時沒有IPV4、IPV6的問題
-W2　&lt;p&gt;&lt;a href=https://40923246.github.io/cd2022/content/%E5%88%86%E7%B5%84.html&gt;分組&lt;/a&gt;&lt;p&gt;
+W2　&lt;a href=https://40923246.github.io/cd2022/content/%E5%88%86%E7%B5%84.html&gt;分組&lt;/a&gt;
 W3　&lt;a href=https://40923246.github.io/cd2022/content/%E7%B5%84%E5%85%A7%E5%88%86%E7%B5%84%E7%B4%80%E9%8C%84.html&gt;組內分組紀錄&lt;/a&gt;
 40923250 1-5
 40923241 6-10
@@ -30,6 +56,7 @@ W6　&lt;a href=https://40923246.github.io/cd2022/blog/index.html&gt;blog&lt;/a&
 W7　
 W8　
 W9&lt;/p&gt;
+&lt;hr&gt;
 &lt;p&gt;參考範例　
 黑底白字 &lt;span style="color: #ffffff;"&gt;&lt;span style="background-color: #000000;"&gt;想寫的文字&lt;/span&gt;&lt;/span&gt;&lt;br&gt;
 插入連結&lt;a href=https://mde.tw/&gt;想寫的文字&lt;/a&gt;  &lt;/p&gt;
