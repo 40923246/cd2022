@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>cd2022</title><link href="https://40923246.github.io/cd2022/blog/" rel="alternate"></link><link href="https://40923246.github.io/cd2022/blog/feeds/all.atom.xml" rel="self"></link><id>https://40923246.github.io/cd2022/blog/</id><updated>2022-04-27T23:37:20+08:00</updated><entry><title>test</title><link href="https://40923246.github.io/cd2022/blog/w8_nothing.html" rel="alternate"></link><published>2022-04-27T00:00:00+08:00</published><updated>2022-04-27T23:07:14+08:00</updated><author><name>40923246</name></author><id>tag:40923246.github.io,2022-04-27:/cd2022/blog/w8_nothing.html</id><summary type="html">&lt;p&gt;just test
+<feed xmlns="http://www.w3.org/2005/Atom"><title>cd2022</title><link href="https://40923246.github.io/cd2022/blog/" rel="alternate"></link><link href="https://40923246.github.io/cd2022/blog/feeds/all.atom.xml" rel="self"></link><id>https://40923246.github.io/cd2022/blog/</id><updated>2022-04-28T14:19:46+08:00</updated><entry><title>test</title><link href="https://40923246.github.io/cd2022/blog/w8_nothing.html" rel="alternate"></link><published>2022-04-27T00:00:00+08:00</published><updated>2022-04-27T23:07:14+08:00</updated><author><name>40923246</name></author><id>tag:40923246.github.io,2022-04-27:/cd2022/blog/w8_nothing.html</id><summary type="html">&lt;p&gt;just test
 反正我不知道怎麼弄的東西全都會丟到這測試&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;just test
 反正我不知道怎麼弄的東西全都會丟到這測試&lt;/p&gt;
@@ -27,13 +27,13 @@
 &lt;p&gt;黑底白字 &lt;span style="color: #ffffff;"&gt;&lt;span style="background-color: #000000;"&gt;想寫的文字&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;插入連結&lt;a href=https://mde.tw/&gt;想寫的文字&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;測試測試&lt;/p&gt;</content><category term="Misc"></category><category term="2022Spring CD"></category></entry><entry><title>w7</title><link href="https://40923246.github.io/cd2022/blog/w7_summary.html" rel="alternate"></link><published>2022-04-07T00:00:00+08:00</published><updated>2022-04-21T14:20:38+08:00</updated><author><name>40923246</name></author><id>tag:40923246.github.io,2022-04-07:/cd2022/blog/w7_summary.html</id><summary type="html">&lt;p&gt;2022 協同產品設計實習
+&lt;p&gt;測試測試&lt;/p&gt;</content><category term="Misc"></category><category term="2022Spring CD"></category></entry><entry><title>w7</title><link href="https://40923246.github.io/cd2022/blog/w7_summary.html" rel="alternate"></link><published>2022-04-07T00:00:00+08:00</published><updated>2022-04-28T14:19:46+08:00</updated><author><name>40923246</name></author><id>tag:40923246.github.io,2022-04-07:/cd2022/blog/w7_summary.html</id><summary type="html">&lt;p&gt;2022 協同產品設計實習
 工作分配進度&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2022 協同產品設計實習
 工作分配進度&lt;/p&gt;
 
 
-&lt;h2&gt;Python&lt;/h2&gt;
+&lt;h2&gt;40923246&lt;/h2&gt;
 &lt;hr&gt;
 &lt;p&gt;Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps&lt;/p&gt;</content><category term="Misc"></category><category term="2022Spring CD"></category></entry><entry><title>2022 Spring CD 課程</title><link href="https://40923246.github.io/cd2022/blog/w6_40923246.html" rel="alternate"></link><published>2022-03-31T00:00:00+08:00</published><updated>2022-04-27T23:37:20+08:00</updated><author><name>40923246</name></author><id>tag:40923246.github.io,2022-03-31:/cd2022/blog/w6_40923246.html</id><summary type="html">&lt;p&gt;2022 Spring 協同產品設計實習&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2022 Spring 協同產品設計實習&lt;/p&gt;
