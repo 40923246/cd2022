@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>cd2022 - Misc</title><link href="https://40923246.github.io/cd2022/blog/" rel="alternate"></link><link href="https://40923246.github.io/cd2022/blog/feeds/misc.atom.xml" rel="self"></link><id>https://40923246.github.io/cd2022/blog/</id><updated>2022-05-12T16:53:40+08:00</updated><entry><title>test</title><link href="https://40923246.github.io/cd2022/blog/w8_nothing.html" rel="alternate"></link><published>2022-04-27T00:00:00+08:00</published><updated>2022-05-12T16:53:40+08:00</updated><author><name>40923246</name></author><id>tag:40923246.github.io,2022-04-27:/cd2022/blog/w8_nothing.html</id><summary type="html">&lt;p&gt;just test
+<feed xmlns="http://www.w3.org/2005/Atom"><title>cd2022 - Misc</title><link href="https://40923246.github.io/cd2022/blog/" rel="alternate"></link><link href="https://40923246.github.io/cd2022/blog/feeds/misc.atom.xml" rel="self"></link><id>https://40923246.github.io/cd2022/blog/</id><updated>2022-05-12T16:58:30+08:00</updated><entry><title>test</title><link href="https://40923246.github.io/cd2022/blog/w8_nothing.html" rel="alternate"></link><published>2022-04-27T00:00:00+08:00</published><updated>2022-05-12T16:58:30+08:00</updated><author><name>40923246</name></author><id>tag:40923246.github.io,2022-04-27:/cd2022/blog/w8_nothing.html</id><summary type="html">&lt;p&gt;just test
 反正我不知道怎麼弄的東西全都會丟到這測試&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;just test
 反正我不知道怎麼弄的東西全都會丟到這測試&lt;/p&gt;
@@ -7,7 +7,7 @@
 
 &lt;h2&gt;40923246&lt;/h2&gt;
 &lt;p&gt;&lt;img =src="/markdown/images/wink1 2022-01-05 003736.png" height="674" width="1200"&gt;&lt;/p&gt;
-&lt;div class="post-cover cover" style="image: url('{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/wink1 2022-01-05 003736.jpg')"&gt;
+&lt;div class=src="image: url('{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/wink1 2022-01-05 003736.jpg')"&gt;
 ----
 &lt;p&gt;W1&lt;/p&gt;
 &lt;div&gt;網路問題都是用手機網路解決，所以暫時沒有IPV4、IPV6的問題&lt;/div&gt;
